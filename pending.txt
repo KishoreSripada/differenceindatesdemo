@@ -1,0 +1,8 @@
+1. Validator class - Validate input
+2. Update README.md for the proper instructions
+3. Write test cases for all classes (Unit testing)
+4. Write Integration Test Suite which will call
+the REST endpoint GET method
+5. Update the logic to ensure this has a new look/makeover
+6. Use GIT for check-in and clone and try to run the same
+in different environment
