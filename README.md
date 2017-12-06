@@ -39,7 +39,7 @@ Prerequisites
 INSTRUCTIONS to clone repo, build and run:
 
     To Clone the date-difference-demo repository, 
-    run "git clone https://github.com/sripadaskishore/differenceindatesdemo.git"
+    run "git clone https://github.com/KishoreSripada/differenceindatesdemo.git"
 
     To build the application, run all tests, and build the project
     IntelliJ Idea -> Run the below command as Maven Goal
